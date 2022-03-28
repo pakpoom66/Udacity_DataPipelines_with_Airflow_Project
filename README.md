@@ -20,3 +20,4 @@ We have provided you with a project template that takes care of all the imports 
 
 You'll be provided with a helpers class that contains all the SQL transformations. Thus, you won't need to write the ETL yourselves, but you'll need to execute it with your custom operators.
 
+![project-dag](https://user-images.githubusercontent.com/18514543/160373081-6ea25313-5fa8-4b75-bdbd-20535e679aa5.png)
